@@ -1,6 +1,6 @@
 DEST_COUNTRY_NAME,ORIGIN_COUNTRY_NAME,count
-United States,Saint Martin,2
-United States,Guinea,2
+United States,Saint Martin,
+United States,Guinea,
 United States,Croatia,1
 United States,Romania,3
 United States,Ireland,
@@ -254,3 +254,4 @@ United States,French Guiana,11
 United States,Haiti,197
 "Bonaire, Sint Eustatius, and Saba",United States,50
 Greece,United States,38
+
